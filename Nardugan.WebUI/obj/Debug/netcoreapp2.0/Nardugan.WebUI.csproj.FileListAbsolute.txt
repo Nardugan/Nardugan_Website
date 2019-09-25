@@ -1,0 +1,11 @@
+D:\ProjelerNardugan\NarduganWebsite\Nardugan.WebUI\bin\Debug\netcoreapp2.0\Nardugan.WebUI.deps.json
+D:\ProjelerNardugan\NarduganWebsite\Nardugan.WebUI\bin\Debug\netcoreapp2.0\Nardugan.WebUI.runtimeconfig.json
+D:\ProjelerNardugan\NarduganWebsite\Nardugan.WebUI\bin\Debug\netcoreapp2.0\Nardugan.WebUI.runtimeconfig.dev.json
+D:\ProjelerNardugan\NarduganWebsite\Nardugan.WebUI\bin\Debug\netcoreapp2.0\Nardugan.WebUI.dll
+D:\ProjelerNardugan\NarduganWebsite\Nardugan.WebUI\obj\Debug\netcoreapp2.0\Nardugan.WebUI.csprojAssemblyReference.cache
+D:\ProjelerNardugan\NarduganWebsite\Nardugan.WebUI\obj\Debug\netcoreapp2.0\Nardugan.WebUI.csproj.CoreCompileInputs.cache
+D:\ProjelerNardugan\NarduganWebsite\Nardugan.WebUI\obj\Debug\netcoreapp2.0\Nardugan.WebUI.AssemblyInfoInputs.cache
+D:\ProjelerNardugan\NarduganWebsite\Nardugan.WebUI\obj\Debug\netcoreapp2.0\Nardugan.WebUI.AssemblyInfo.cs
+D:\ProjelerNardugan\NarduganWebsite\Nardugan.WebUI\bin\Debug\netcoreapp2.0\Nardugan.WebUI.pdb
+D:\ProjelerNardugan\NarduganWebsite\Nardugan.WebUI\obj\Debug\netcoreapp2.0\Nardugan.WebUI.dll
+D:\ProjelerNardugan\NarduganWebsite\Nardugan.WebUI\obj\Debug\netcoreapp2.0\Nardugan.WebUI.pdb

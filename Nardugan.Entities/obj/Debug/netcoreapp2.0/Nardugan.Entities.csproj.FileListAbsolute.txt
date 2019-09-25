@@ -1,0 +1,6 @@
+D:\ProjelerNardugan\NarduganWebsite\Nardugan.Entities\bin\Debug\netcoreapp2.0\Nardugan.Entities.deps.json
+D:\ProjelerNardugan\NarduganWebsite\Nardugan.Entities\bin\Debug\netcoreapp2.0\Nardugan.Entities.dll
+D:\ProjelerNardugan\NarduganWebsite\Nardugan.Entities\obj\Debug\netcoreapp2.0\Nardugan.Entities.csprojAssemblyReference.cache
+D:\ProjelerNardugan\NarduganWebsite\Nardugan.Entities\obj\Debug\netcoreapp2.0\Nardugan.Entities.csproj.CoreCompileInputs.cache
+D:\ProjelerNardugan\NarduganWebsite\Nardugan.Entities\obj\Debug\netcoreapp2.0\Nardugan.Entities.AssemblyInfoInputs.cache
+D:\ProjelerNardugan\NarduganWebsite\Nardugan.Entities\obj\Debug\netcoreapp2.0\Nardugan.Entities.AssemblyInfo.cs
